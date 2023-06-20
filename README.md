@@ -11,4 +11,6 @@
 | [Room Occupancy from Environment](https://github.com/a-donat/Benchmarks_PyCaret/blob/main/Predicting_Room_Occupancy.ipynb)| Binary | No | Classification | 0.9913 |	0.9908 |
 | [Telemarketing Response](https://github.com/a-donat/Benchmarks_PyCaret/blob/main/Predicting_Telemarketing_Response.ipynb)| Binary | Yes | Classification | 0.8142	|	0.6284|
 | [Urban Water Quality](https://github.com/a-donat/Benchmarks_PyCaret/blob/main/Predicting_Urban_Water_Quality.ipynb)| Multiclass (why - only 2?) | Yes | Classification | 0.9958	|	0.9958|
+
+
 Note: Accuracy and Recall are for the same analysis.
