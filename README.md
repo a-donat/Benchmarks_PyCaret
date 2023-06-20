@@ -1,5 +1,5 @@
 # Benchmarks_PyCaret
 
-| Dataset | Target Typ | Imbalanced Classes | Method |
-| :-----: | :--------: | :----------------: | :----: |
-| Seconds | 301        | 283                | asdf   |
+| Dataset | Target Type | Imbalanced Classes | Method |
+| :-----: | :---------: | :----------------: | :----: |
+| Seconds | 301         | 283                | asdf   |
